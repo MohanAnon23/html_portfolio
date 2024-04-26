@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<h1><center>Mohan Nallamilli</center></h1>
+<img src="C:\Users\naidu\OneDrive\Desktop\Mohan\ViSa\Mohan_pic_2024.jpg" alt="mohan_pic">
+<body>
+    
+        <h2>Summary</h2>
+            I am a hardworking and dedicated individual with experience in customer service and administration.
+        <hr>
+        <h2>Education</h2>
+            <ul>
+                <li>Bachelor of Engineering, Electrical Engineerng - NIT RAIPUR</li>
+                <li>Mobile solution Development, Computer Science - Conestoga College, Ontario </li>
+            </ul>
+        <hr>
+    <h2>Work experience</h2>
+    <hr>
+    <h2>Skills</h2>
+    <hr>
+    <h2>Awards and certifications</h2>
+    Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)
+    <hr>
+    <h2>Others</h2>
+    <ul>
+        <li><a href="hobbies">My hobbies</a></li>
+        <li><a href="contact">Contact me</a></li>
+    </ul>
+    <hr>
+
+</body>
+</html>
